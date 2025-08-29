@@ -1,4 +1,4 @@
-* # Replicando projeto da DIO *
+* # Replicando projeto da DIO 
 # Desenvolvendo-sua-Primeira-API-com-FastAPI-Python-e-Docker
 
 
